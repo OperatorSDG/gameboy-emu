@@ -10,5 +10,5 @@
 
 
 ## Refferences :
-    - [Pan Docs](https://gbdev.io/pandocs/About.html)
-    - 
+    [Pan Docs](https://gbdev.io/pandocs/About.html)
+     
